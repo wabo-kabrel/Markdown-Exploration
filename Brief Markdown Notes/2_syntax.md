@@ -21,6 +21,11 @@ This is another paragraph.
 
 To create a line break without a new paragraph,  
 add two spaces at the end of the line.
-
-
-3. 
+  
+  
+3. Emphasis
+   
+*italic text* or _italic text_
+**bold text** or __bold text__
+***bold and italic*** or ___bold and italic___
+~~strikethrough text~~ 
