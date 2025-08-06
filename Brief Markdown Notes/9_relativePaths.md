@@ -1,5 +1,6 @@
 # 📁 Relative Paths
 ## File Structure Example
+Enclose file structures in triple backticks (```) as shown below
 ```
 my-project/
 ├── README.md
