@@ -19,7 +19,7 @@ Where is Markdown Supported?
  - Documentation Tools: GitBook, Notion, Obsidian
  - Messaging Apps: Slack, Microsoft Teams
 
-File Extensions
-.md - Most common
-.markdown - Alternative extension
-.mdown - Less common but valid
+File Extensions  
+.md - Most common  
+.markdown - Alternative extension  
+.mdown - Less common but valid  
