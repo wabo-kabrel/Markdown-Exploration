@@ -11,8 +11,8 @@
 |   H6      |   ######  |  
 |-----------------------|  
   
-Best Practice: Use only one H1(represented by #) per document,'   
-               and maintain hierarchy (don't skip any level).
+Best Practice: Use only one H1(represented by #) per document,  
+and maintain hierarchy (don't skip any level).
 
 
 2. Paragraphs and Line Breaks
