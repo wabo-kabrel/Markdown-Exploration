@@ -2,14 +2,14 @@
 ## Headings  
   
 |   HTML    |  Markdown |  
-|-----------------------|  
+|-----------|-----------|  
 |   H1      |   #       |  
 |   H2      |   ##      |  
 |   H3      |   ###     |  
 |   H4      |   ####    |  
 |   H5      |   #####   |  
 |   H6      |   ######  |   
-  
+
 Best Practice: Use only one H1(represented by #) per document, and maintain hierarchy (don't skip any level).
 
 
