@@ -31,6 +31,6 @@ add two spaces at the end of the line.
      
 Example:  
 *Hello* or _Hello World_  
-**Hello world** or __Hello World__  
+**Hello World** or __Hello World__  
 ***Hello World*** or ___Hello___  
-~~Hello~~   
+~~Hello World~~   
