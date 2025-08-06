@@ -1,19 +1,22 @@
 # 📁 Relative Paths
 ## File Structure Example
-my-project/  
-├── README.md  
-├── docs/  
-│   ├── installation.md  
-│   └── usage.md  
-├── src/  
-│   └── main.py  
-├── assets/  
-│   ├── images/  
-│   │   └── logo.png  
-│   └── videos/  
-│       └── demo.mp4  
-└── tests/  
-    └── test_main.py  
+```
+my-project/
+├── README.md
+├── docs/
+│   ├── installation.md
+│   └── usage.md
+├── src/
+│   └── main.py
+├── assets/
+│   ├── images/
+│   │   └── logo.png
+│   └── videos/
+│       └── demo.mp4
+└── tests/
+    └── test_main.py
+```
+
 
 ## Linking to Files in Same Directory
 [Installation Guide](installation.md)
