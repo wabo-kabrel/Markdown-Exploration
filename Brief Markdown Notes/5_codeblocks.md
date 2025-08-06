@@ -25,18 +25,18 @@ git commit -m "Initial commit"
 ```
 
 ## Popular Language Identifiers  
-python, py
-javascript, js
-java
-c, cpp, c++
-html
-css
-bash, shell
-json
-xml
-sql
-yaml, yml
-dockerfile
+ - python, py
+ - javascript, js
+ - java
+ - c, cpp, c++
+ - html
+ - css
+ - bash, shell
+ - json
+ - xml
+ - sql
+ - yaml, yml
+ - dockerfile
 
 ## Code Block with Line Numbers (GitHub)  
 ```python {.line-numbers}
