@@ -42,7 +42,8 @@ Example:
 
 
   ## Lists  
-  ### Unordered Lists
+  ### Unordered Lists  
+  Created using the signs: -, *, or + as shown below  
 - Item 1
 - Item 2
 - Item 3
