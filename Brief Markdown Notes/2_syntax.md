@@ -24,8 +24,13 @@ add two spaces at the end of the line.
   
   
 3. Emphasis
-   
-*italic text* or _italic text_
-**bold text** or __bold text__
-***bold and italic*** or ___bold and italic___
-~~strikethrough text~~ 
+   - Italic - Place text in between * * OR _ _
+   - Bold   - Place text in between ** **  OR __ __
+   - bold and italic - Place text in between *** *** OR ___ ___
+   - Strikethrough - Place text in between ~~ ~~
+     
+Example:
+*Hello* or _Hello World_  
+**Hello world** or __Hello World__  
+***Hello World*** or ___Hello___  
+~~Hello~~   
