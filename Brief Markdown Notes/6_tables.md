@@ -19,7 +19,7 @@
 | Support | Community | Email | 24/7 Phone |
 | Price | $0 | $10/month | Contact Us |
 
-### Table Best Practices
+**Table Best Practices**
  - Keep tables simple and readable
  - Use alignment for better visual organization
  - Consider using HTML tables for complex layouts

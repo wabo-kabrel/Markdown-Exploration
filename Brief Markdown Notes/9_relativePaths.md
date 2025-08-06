@@ -34,7 +34,7 @@ my-project/
 ![Logo](assets/images/logo.png)
 ![Architecture Diagram](docs/images/architecture.png)
 
-## Best Practices
+**Best Practices**
  - Always use forward slashes / (works on all platforms)
  - Use relative paths for files within your repository
  - Use absolute URLs for external resources

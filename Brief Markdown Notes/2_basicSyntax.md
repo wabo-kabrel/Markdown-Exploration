@@ -10,7 +10,7 @@
 |   H5      |   #####   |  
 |   H6      |   ######  |   
 
-### Best Practice
+**Best Practice**
 Use only one H1(represented by #) per document, and maintain hierarchy (don't skip any level).
 
 
@@ -29,7 +29,7 @@ add two spaces at the end of the line.
    - bold and italic - Place text in between *** *** OR ___ ___
    - Strikethrough - Place text in between ~~ ~~
      
-Example:  
+**Example:**  
 *Hello* or _Hello World_  
 **Hello World** or __Hello World__  
 ***Hello World*** or ___Hello___  
