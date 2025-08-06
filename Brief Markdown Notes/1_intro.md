@@ -1,5 +1,6 @@
-Introduction to Markdown
-What is Markdown? 
+Introduction to Markdown  
+  
+What is Markdown?  
 Markdown is a lightweight markup language created by John Gruber in 2004.   
 It allows you to format text using simple, readable syntax that converts to HTML.
    
@@ -20,6 +21,7 @@ Where is Markdown Supported?
  - Messaging Apps: Slack, Microsoft Teams
 
 File Extensions  
+  
 .md - Most common  
 .markdown - Alternative extension  
 .mdown - Less common but valid  
