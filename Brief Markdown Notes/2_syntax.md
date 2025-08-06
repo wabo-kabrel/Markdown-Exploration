@@ -11,8 +11,7 @@
 |   H6      |   ######  |  
 |-----------------------|  
   
-Best Practice: Use only one H1(represented by #) per document,  
-and maintain hierarchy (don't skip any level).
+Best Practice: Use only one H1(represented by #) per document, and maintain hierarchy (don't skip any level).
 
 
 2. Paragraphs and Line Breaks
@@ -22,3 +21,6 @@ This is another paragraph.
 
 To create a line break without a new paragraph,  
 add two spaces at the end of the line.
+
+
+3. 
