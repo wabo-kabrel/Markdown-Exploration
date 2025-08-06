@@ -29,7 +29,7 @@ add two spaces at the end of the line.
    - bold and italic - Place text in between *** *** OR ___ ___
    - Strikethrough - Place text in between ~~ ~~
      
-Example:
+Example:  
 *Hello* or _Hello World_  
 **Hello world** or __Hello World__  
 ***Hello World*** or ___Hello___  
