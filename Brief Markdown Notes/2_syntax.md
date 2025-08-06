@@ -36,6 +36,6 @@ Example:
 ~~Hello World~~   
 
 ## Horizontal Rules
-  ---  
+ Using "***" ---  
   ***  
   ---
