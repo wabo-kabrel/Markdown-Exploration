@@ -34,3 +34,8 @@ Example:
 **Hello World** or __Hello World__  
 ***Hello World*** or ___Hello___  
 ~~Hello World~~   
+
+## Horizontal Rules
+  ---  
+  ***  
+  ---
