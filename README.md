@@ -18,7 +18,8 @@ Markdown-Exploration/
     ├── 9_relativePaths.md
     ├── 10_bestPractices.md
     ├── 11_cheatsheet.md
-    └──  12_ReadMeTemplate.md 
+    ├── 12_ReadMeTemplate.md
+    └── 13_toolsAndResources.md
 ```
 
 ##  How to Use
