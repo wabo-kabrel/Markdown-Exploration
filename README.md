@@ -25,7 +25,7 @@ Markdown-Exploration/
 Feel free to browse each `.md` file in the `Brief Markdown Notes` directory to learn different Markdown features and best practices.
 
 ##  License
-This project is for educational purposes and does not currently include a specific license. You may freely use the content for learning.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 Happy Markdowning! 
