@@ -42,12 +42,12 @@
 ## Example Repositories with Excellent READMEs
 ### Beginner Level
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [kamranahmedse/developer-roadmap](kamranahmedse/developer-roadmap)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Intermediate Level
 - [microsoft/vscode](https://github.com/microsoft/vscode)
-- [airbnb/javascript](https://github.com/microsoft/vscode)
+- [airbnb/javascript](https://github.com/airbnb/javascript)
 
 ### Advanced Level
-- [facebook/react]([facebook/react](https://github.com/facebook/react))
+- [facebook/react](https://github.com/facebook/react)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
